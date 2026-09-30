@@ -1,0 +1,3 @@
+[submodule "relis_next"]
+	path = relis
+	url = git@github.com:geodes-sms/relis_next.git
